@@ -1,0 +1,4 @@
+Just run with:
+
+  cucumber features FIREWATIR=true
+
